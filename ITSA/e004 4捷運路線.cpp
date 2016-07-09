@@ -86,6 +86,7 @@ void Findbestdistance(Visit Visted,int current_line,int current_station,int targ
 			}
 		}
 		else {
+			int tmp = sum;
 			for(int i=0;i<s[index].relate_max;i++){
 				int target = s[index].relate[i][1];
 				if(current_station<target){
@@ -103,6 +104,7 @@ void Findbestdistance(Visit Visted,int current_line,int current_station,int targ
 				int next = Xindex(s[index].relate[i][0]);
 				//cout<<current_line<<" -> "<<s[index].relate[i][0]<<endl;
 				Findbestdistance(Visted,s[index].relate[i][0],s[index].relate[i][2], target_line, target_station, sum,MIN);
+				sum = tmp;
 			}
 		}
 	}
