@@ -1,0 +1,9 @@
+void Member::printData(){
+	cout<<setw(5)<<"ID"<<setw(10)<<"帳號"<<setw(10)<<"密碼"<<setw(10)<<"姓名"<<setw(20)<<"email"<<setw(20)<<"地址"<<setw(12)<<"手機號碼"<<setw(12)<<"最大借閱量"<<setw(10)<<"借閱總數"<<setw(10)<<"書籍數量"<<endl;
+	for(int i=0;i<total;i++){
+		cout<<setw(5)<<id[i]<<setw(10)<<account[i]<<setw(10)<<password[i]<<setw(10)<<name[i]<<setw(20)<<email[i]<<setw(20)<<adress[i]<<setw(12)<<cellNumber[i]<<setw(12)<<MAX[i]<<setw(10)<<currentbooktatal[i]<<setw(10)<<lendtatal[i]<<endl;
+		for(int j=0;j<lendtatal[i];j++){
+			cout<<lendid[i][j]<<" "<<lendamount[i][j]<<endl;
+		}
+	}
+}

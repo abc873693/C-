@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\obj\Debug\HW1.Form1.resources
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\obj\Debug\HW1.Properties.Resources.resources
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\obj\Debug\HW1.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\Ray\Desktop\資料結構\第三次作業-二元樹\HW1\HW1\obj\Debug\HW1.pdb
